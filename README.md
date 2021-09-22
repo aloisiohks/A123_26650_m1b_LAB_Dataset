@@ -15,11 +15,12 @@ The files associated with this dataset are licensed under a Creative Commons Att
 
 This dataset was collected at the High-Voltage Battery Research Lab at University of Colorado Colorado Springs using an Arbin BT2000 battery cycler and a Cincinnati Sub-zero thermal chamber. This dataset has been used for the model parameterization of a coupled electro-thermal equivalent-circuit model (CET model) in the following publications:
 
-A. K. de Souza, G. Plett and M. S. Trimboli, "Lithium-Ion Battery Charging Control Using a Coupled Electro-Thermal Model and Model Predictive Control," 2020 IEEE Applied Power Electronics Conference and Exposition (APEC), 2020, pp. 3534-3539, doi: 10.1109/APEC39645.2020.9124431.
+<a href="https://ieeexplore.ieee.org/document/9124431">A. K. de Souza, G. Plett and M. S. Trimboli, "Lithium-Ion Battery Charging Control Using a Coupled Electro-Thermal Model and Model Predictive Control," 2020 IEEE Applied Power Electronics Conference and Exposition (APEC), 2020, pp. 3534-3539, doi: 10.1109/APEC39645.2020.9124431.</a>
 
-Kawakita de Souza, A. (2020). Advanced Predictive Control Strategies for Lithium-Ion Battery Management Using a Coupled Electro-Thermal Model [Master thesis, University of Colorado, Colorado Springs]. ProQuest Dissertations Publishing.
+<a href="https://mountainscholar.org/handle/10976/167269">Kawakita de Souza, A. (2020). Advanced Predictive Control Strategies for Lithium-Ion Battery Management Using a Coupled Electro-Thermal Model [Master thesis, University of Colorado, Colorado Springs]. ProQuest Dissertations Publishing.</a>
 
-M. A. Xavier, A. K. de Souza and M. S. Trimboli, "An LPV-MPC Inspired Battery SOP Estimation Algorithm Using a Coupled Electro-Thermal Model," 2021 American Control Conference (ACC), 2021, pp. 4421-4426, doi: 10.23919/ACC50511.2021.9483433.
+
+<a href="https://ieeexplore.ieee.org/document/9483433">M. A. Xavier, A. K. de Souza and M. S. Trimboli, "An LPV-MPC Inspired Battery SOP Estimation Algorithm Using a Coupled Electro-Thermal Model," 2021 American Control Conference (ACC), 2021, pp. 4421-4426, doi: 10.23919/ACC50511.2021.9483433.</a>
 
 - The OCVdata and DYNdata folders contain the lab data that can be used with the ECM toolbox from <a href="http://mocha-java.uccs.edu/BMS1/index.html">Prof. Plett's book (Battery Management Systems, Volume I: Battery Modeling)</a>  to estimate the parameters of the Enhanced self-correcting model for the temperature range from -25 ℃ to 45 ℃ in increments of 10 ℃.
 - The CCCV folder contains the CCCV data at 25 ℃ at four different charging C-rates (1C, 2C, 3C and 4C).
